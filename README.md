@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JacobDrizzle
+## 👋 Hi, I’m @JacobDrizzle
 
-- 👀 I'm an aspiring Software Engineer, eager to embark on my professional journey in the tech industry.
+- I'm an aspiring Software Engineer, eager to embark on my professional journey in the tech industry.
 
 ## Embarking on a Tech Career 🚀
 
