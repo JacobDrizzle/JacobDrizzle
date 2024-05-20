@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m @JacobDrizzle
 
-- I'm an aspiring Software Engineer, eager to embark on my professional journey in the tech industry.
-- Currently honing my skills in advanced software development, with a keen interest in Artificial intelligence and Machine Learning, alongside C++, Java, and SQL.
-- Coding and Innovation: Passionate about AI/ML, constantly exploring its capabilities. Proficient in modern web technologies and always in pursuit of innovative solutions.
+- I'm an aspiring Software Engineer, currently pursuing a Bachelor's degree in Software Development.
+- I have a keen interest in Artificial intelligence, Robotics, and Cybersecurity. I am proficient in C++, TypeScript, Java, SQL, and Python to name a few, and constantly honing my skills in software development.
+- Passionate about AI/ML, CyberSecurity and Software in general I'm constantly exploring its capabilities and looking for new ways to innovate. 
 
 ## Stepping Stone to Professional Experience 💼
 
