@@ -1,8 +1,7 @@
 ## 👋 Hi, I’m @JacobDrizzle
 
 - I'm an aspiring Software Engineer, currently pursuing a Bachelor's degree in Software Development.
-- I have a keen interest in BLockchain, Artificial intelligence, Robotics, and Cybersecurity. I am proficient in C++, TypeScript, Java, Rust, SQL, and Python to name a few, and constantly honing my skills in software development.
-- Passionate about Blockchain, AI/ML, CyberSecurity and Software in general I'm constantly exploring its capabilities and looking for new ways to innovate. 
+- I have a keen interest in Blockchain, Artificial intelligence, Robotics, and Cybersecurity. I am proficient in C++, TypeScript, Java, Rust, SQL, and Python to name a few, and constantly honing my skills in software development.
 
 ## Stepping Stone to Professional Experience 💼
 
